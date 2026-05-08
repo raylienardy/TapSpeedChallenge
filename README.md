@@ -115,9 +115,7 @@ Menampilkan hasil, menyimpan rekor, dan mengizinkan permainan baru.
 
 ## 🖼️ Pratinjau (Preview)
 
-<img src="preview/01.png" alt="Tampilan awal" width="220">
-<img src="preview/02.png" alt="Saat bermain" width="220">
-<img src="preview/03.png" alt="Setelah selesai" width="220">
+<img src="preview/01.png" alt="Tampilan awal" width="220"><img src="preview/02.png" alt="Saat bermain" width="220"><img src="preview/03.png" alt="Setelah selesai" width="220">
 
 ---
 
